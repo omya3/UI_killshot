@@ -1,0 +1,9 @@
+canvas {
+  background: url("/src/asset1/background.png");
+  height: 600;
+  width: 1200;
+}
+
+img {
+  display: none;
+}
